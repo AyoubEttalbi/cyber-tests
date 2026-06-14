@@ -1,0 +1,22 @@
+{
+  "instructorID": 937,
+  "instructorNumber": "IIR",
+  "firstName": "Yassine",
+  "lastName": "SAFSOUF",
+  "fullName": "SAFSOUF Yassine",
+  "ssn": "EE56091",
+  "companyMail": "y.safsouf@emsi.ma",
+  "email": "safsoufyassine@gmail.com",
+  "password": "$2b$10$rYVB.62wUqA69.FQpwUsfeLenGlm13dq3yB/ujy/lgdYljWuVolJK",
+  "mustUpdatePassword": true,
+  "dateOfBirth": "1984-01-01T00:00:00.000Z",
+  "placeOfBirth": "Marrakech",
+  "departmentID": 7,
+  "campusGroupID": 17,
+  "genderID": 1,
+  "titleID": 3,
+  "active": true,
+  "isPublicOrigin": true,
+  "createdAt": "2024-10-10T11:10:41.000Z",
+  "updatedAt": "2026-06-12T19:57:05.000Z"
+}

@@ -1,0 +1,389 @@
+{
+  "summary": "3IIRK G2 (group 765) — GRADE VERIFICATION PROOF",
+  "date": "2026-06-12",
+  "student": "Ayoub ETTALBI (21393, enrollmentID 27881)",
+  "group": "3IIRK G2",
+  "groupID": 765,
+  "programVersion": "MK-IIR-24-25",
+  "program": "IIR (Ingénierie Informatique et Réseaux)",
+  "programID": 7,
+  "campusID": 17,
+  "students_in_group": 34,
+  "conclusion": "ZERO grades entered for 3IIRK G2 in sis-api.emsi.ma",
+  "s1_eval_count": 20,
+  "s2_eval_count": 20,
+  "total_eval_count": 40,
+  "total_grade_slots": 1360,
+  "s1_evaluations": [
+    {
+      "evaluationElementID": 50569,
+      "course": "Programmation Orientée Objet",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 937
+    },
+    {
+      "evaluationElementID": 50570,
+      "course": "TP P.O.O",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 939
+    },
+    {
+      "evaluationElementID": 50571,
+      "course": "Conception de Systèmes d'Information",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 647
+    },
+    {
+      "evaluationElementID": 50572,
+      "course": "SQL, Pl/SQL",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 873
+    },
+    {
+      "evaluationElementID": 50573,
+      "course": "Systèmes d'Exploitation Unix",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2830
+    },
+    {
+      "evaluationElementID": 50574,
+      "course": "Compilation",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 435
+    },
+    {
+      "evaluationElementID": 50575,
+      "course": "Réseaux Informatiques 1",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 4
+    },
+    {
+      "evaluationElementID": 50576,
+      "course": "TP Réseaux Informatiques 1",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 250
+    },
+    {
+      "evaluationElementID": 50577,
+      "course": "Outils de Développement 1",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 940
+    },
+    {
+      "evaluationElementID": 50578,
+      "course": "Communication Professionnelle 1",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 104
+    },
+    {
+      "evaluationElementID": 50579,
+      "course": "Intermediate English 1",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 275
+    },
+    {
+      "evaluationElementID": 50580,
+      "course": "Développement Numérique",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 439
+    },
+    {
+      "evaluationElementID": 50581,
+      "course": "Informatique Responsable",
+      "type": "ASSESSMENT",
+      "label": "Contrôle",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 433
+    },
+    {
+      "evaluationElementID": 59293,
+      "course": "Programmation Orientée Objet",
+      "type": "EXAM",
+      "label": "Examen_S1",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 937
+    },
+    {
+      "evaluationElementID": 59294,
+      "course": "Programmation Orientée Objet",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 937
+    },
+    {
+      "evaluationElementID": 59295,
+      "course": "TP P.O.O",
+      "type": "EXAM",
+      "label": "Examen_S1",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 939
+    },
+    {
+      "evaluationElementID": 59296,
+      "course": "TP P.O.O",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 939
+    },
+    {
+      "evaluationElementID": 59297,
+      "course": "Conception de Systèmes d'Information",
+      "type": "EXAM",
+      "label": "Examen_S1",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 647
+    },
+    {
+      "evaluationElementID": 59298,
+      "course": "Conception de Systèmes d'Information",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 647
+    },
+    {
+      "evaluationElementID": 59299,
+      "course": "SQL, Pl/SQL",
+      "type": "EXAM",
+      "label": "Examen_S1",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2553
+    }
+  ],
+  "s2_evaluations": [
+    {
+      "evaluationElementID": 71861,
+      "course": "SQL Server",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2380
+    },
+    {
+      "evaluationElementID": 71862,
+      "course": "Recherche Scientifique",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 835
+    },
+    {
+      "evaluationElementID": 71863,
+      "course": "Intermediate English 2",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2447
+    },
+    {
+      "evaluationElementID": 71864,
+      "course": "Communication Professionnelle 2",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 104
+    },
+    {
+      "evaluationElementID": 71865,
+      "course": "Conception Orientée Objet",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 953
+    },
+    {
+      "evaluationElementID": 71866,
+      "course": "TP Réseaux Informatiques 2",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 250
+    },
+    {
+      "evaluationElementID": 71867,
+      "course": "Compétences Culturelles et Artsitiques",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 168
+    },
+    {
+      "evaluationElementID": 71868,
+      "course": "Programmation Python et Framework",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 937
+    },
+    {
+      "evaluationElementID": 71869,
+      "course": "Développement d'Un Projet Informatique",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 877
+    },
+    {
+      "evaluationElementID": 71870,
+      "course": "Modèles Statistiques",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 839
+    },
+    {
+      "evaluationElementID": 71871,
+      "course": "Programmation Linéaire",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 111
+    },
+    {
+      "evaluationElementID": 71872,
+      "course": "Programmation Java",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2384
+    },
+    {
+      "evaluationElementID": 71873,
+      "course": "Réseaux Informatiques 2",
+      "type": "ASSESSMENT",
+      "label": "Contrôle_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 957
+    },
+    {
+      "evaluationElementID": 84540,
+      "course": "SQL Server",
+      "type": "EXAM",
+      "label": "Examen_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2380
+    },
+    {
+      "evaluationElementID": 84541,
+      "course": "SQL Server",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 2380
+    },
+    {
+      "evaluationElementID": 84542,
+      "course": "Recherche Scientifique",
+      "type": "EXAM",
+      "label": "Examen_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 835
+    },
+    {
+      "evaluationElementID": 84543,
+      "course": "Recherche Scientifique",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 835
+    },
+    {
+      "evaluationElementID": 84544,
+      "course": "Intermediate English 2",
+      "type": "EXAM",
+      "label": "Examen_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 2447
+    },
+    {
+      "evaluationElementID": 84545,
+      "course": "Intermediate English 2",
+      "type": "RAT",
+      "label": "Rattrapage d'examen",
+      "enteredCount": 0,
+      "totalCount": 0,
+      "instructorID": 2447
+    },
+    {
+      "evaluationElementID": 84546,
+      "course": "Communication Professionnelle 2",
+      "type": "EXAM",
+      "label": "Examen_S2",
+      "enteredCount": 0,
+      "totalCount": 34,
+      "instructorID": 104
+    }
+  ],
+  "grade_verification": [],
+  "total_entered_across_all_evals": 0,
+  "verification_date": "2026-06-12T22:30:00Z",
+  "ayoub_grades": {
+    "total_records": 55,
+    "non_null_grades": 0,
+    "all_null": true
+  }
+}

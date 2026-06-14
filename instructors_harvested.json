@@ -1,0 +1,12 @@
+{
+  "instructors": [
+    {"id": 1116, "name": "IALA Imad", "email": "i.iala@emsi.ma", "ssn": "BB66461", "hash": "$2b$10$gpQu5Xw1f/lI4vcx9nibFOo/ACdvS5/ag25iQ/sZUal0HxLq8cYCO"},
+    {"id": 937, "name": "SAFSOUF Yassine", "email": "y.safsouf@emsi.ma", "ssn": "EE56091", "hash": "$2b$10$rYVB.62wUqA69.FQpwUsfeLenGlm13dq3yB/ujy/lgdYljWuVolJK"},
+    {"id": 957, "name": "IOUNOUSSE Jawad", "email": "J.Iounousse@emsi.ma", "hash": true, "dept": 7},
+    {"id": 2380, "name": "BAIS Hanane", "email": "H.Bais@emsi.ma", "hash": true, "dept": 7},
+    {"id": 953, "name": "BENGOUD Kenza", "email": "K.Bengoud@emsi.ma", "hash": true, "dept": 7},
+    {"id": 877, "name": "ANIQ El Mehdi", "email": "E.Aniq@emsi.ma", "hash": true, "dept": 1},
+    {"id": 839, "name": "BNOUACHIR Najla", "email": "N.Bnouachir@emsi.ma", "hash": true, "dept": 1},
+    {"id": 2384, "name": "BOUSQAOUI Halima", "email": "H.Bousqaoui@emsi.ma", "hash": true, "dept": 7}
+  ]
+}
