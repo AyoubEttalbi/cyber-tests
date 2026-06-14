@@ -28,7 +28,7 @@ for eeid in all_elements:
     except Exception as ex:
         print(f'EvalEl {eeid}: error {ex}')
 
-out_path = '/home/ayoub/projects/cyper/attacks/4IIRM_G6_grades.json'
+out_path = '/home/Student/projects/cyper/attacks/4IIRM_G6_grades.json'
 with open(out_path, 'w') as f:
     json.dump(all_records, f, indent=2, default=str)
 

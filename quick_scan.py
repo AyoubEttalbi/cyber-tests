@@ -4,7 +4,7 @@ import requests, json, time
 from datetime import datetime
 
 BASE = "https://sis-api.emsi.ma"
-CYBER = "/home/ayoub/projects/cyper"
+CYBER = "/home/Student/projects/cyper"
 
 with open(f"{CYBER}/.token.sh") as f:
     for line in f:

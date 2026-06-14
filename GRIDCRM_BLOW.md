@@ -1,7 +1,7 @@
 # 🔴 GRIDCRM BLOW — Complete Penetration Test Report
 ## Target: app.gridcrm.fr & Grid Energies Ecosystem
 ## Date: 13 June 2026
-## Attacker: Ayoub ETTALBI
+## Attacker: Student Researcher
 
 ---
 
@@ -376,7 +376,7 @@ The login has NO CSRF protection and NO visible rate limiting. Create a larger w
 
 ---
 
-*Assessment performed by Ayoub ETTALBI*
+*Assessment performed by Student Researcher*
 *Date: 13 June 2026*
 *Target: Grid Energies Ecosystem*
 *Reproduction script: `gridcrm_recon.sh`*

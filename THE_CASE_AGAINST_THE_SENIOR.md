@@ -33,7 +33,7 @@
 
 ---
 
-### 2. "You only found Ayoub's data"
+### 2. "You only found Student's data"
 
 **Wrong.** Here's what I found about **OTHER people**:
 
@@ -89,7 +89,7 @@ If I can do this for one token, imagine what an attacker with an **admin token**
 
 ```
 POST /v1/auth/forgot-password  →  HTTP 201 for ALL emails tested:
-  ✓ ayoub.ettalbi@emsi-edu.ma → 201
+  ✓ student-researcher@emsi-edu.ma → 201
   ✓ admin@emsi.ma → 201
   ✓ directeur@emsi.ma → 201
   ✓ prof@emsi.ma → 201
@@ -172,7 +172,7 @@ If an attacker compromises an **admin account** (via phishing, weak password, or
 
 With photo + name + group + schedule:
 ```
-"Hi Ayoub, this is Prof. [Name] from the administration. 
+"Hi Student, this is Prof. [Name] from the administration. 
 I see you're in 3IIRK G2 and you have Modèles Statistiques 
 in S503 on Fridays. We need to verify your transcript 
 for the S2 validation. Click here to confirm..."
@@ -183,7 +183,7 @@ The victim trusts it because the attacker knows their exact schedule, their grou
 
 ## DATA EXTRACTED (Real Evidence)
 
-All evidence files in `/home/ayoub/projects/cyper/`:
+All evidence files in `/home/Student/projects/cyper/`:
 
 | File | Content |
 |---|---|
@@ -191,7 +191,7 @@ All evidence files in `/home/ayoub/projects/cyper/`:
 | `full_schedule.json` | 472 schedule entries, 26 courses, 20 rooms |
 | `proof_*.jpg` (26 files) | Other students' ID photos |
 | `photo_*.jpg` (10 files) | Additional downloaded photos |
-| `student_photo_M-2026-000171.jpg` | Ayoub's own photo |
+| `student_photo_M-2026-000171.jpg` | Student's own photo |
 | `refresh_result.txt` | Token refresh failure |
 | `THE_CASE_AGAINST_THE_SENIOR.md` | This report |
 
@@ -244,6 +244,6 @@ The senior should:
 
 ---
 
-*Assessment by Ayoub ETTALBI | 12 June 2026*
+*Assessment by Student Researcher | 12 June 2026*
 *All attacks performed against the LIVE production system*
 *All extracted data retained as evidence*

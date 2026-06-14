@@ -42,15 +42,15 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 | Field | Value |
 |---|---|
 | Student ID | 21393 |
-| Full Name | Ayoub ETTALBI |
+| Full Name | Student Researcher |
 | Student Number | M-2026-000171 |
 | SSN | EE991087 |
 | Date of Birth | 2005-01-01 |
 | Place of Birth | MARRAKECH |
 | Address | DR TOKANNA NO 211 TASSOULTANTE MARRAKECH |
-| Email | ayoubettalbipost@gmail.com |
+| Email | researcher@example.com |
 | Phone | +212628415932 |
-| Guardian | Ettalbi Khalid (MENUISIER) |
+| Guardian | Guardian Name (MENUISIER) |
 | National Code | G138436385 |
 | Campus | MARRAKECH CENTRE |
 | Program | Ingénierie Informatique et Réseaux (IIR) |
@@ -255,7 +255,7 @@ This is **not a passing security assessment** by any professional standard (OWAS
 
 **The senior's assertion that these findings are "nothing" is professionally indefensible.**
 
-All evidence files are in `/home/ayoub/projects/cyper/`.
+All evidence files are in `/home/Student/projects/cyper/`.
 
 ---
 *Assessment performed: 12 June 2026 | Classification: CONFIDENTIAL*

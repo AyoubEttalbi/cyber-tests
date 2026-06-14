@@ -77,7 +77,7 @@ def main():
                     if bcrypt.checkpw(pwd.encode(), h.encode()):
                         print(f"\n  ✅ FOUND! Password for {name}: '{pwd}'")
                         # Save it
-                        with open('/home/ayoub/projects/cyper/cracked_passwords.txt', 'a') as f:
+                        with open('/home/Student/projects/cyper/cracked_passwords.txt', 'a') as f:
                             f.write(f"{name}:{pwd}\n")
                         break
                 except Exception:

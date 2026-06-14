@@ -11,7 +11,7 @@ import time
 from datetime import datetime
 
 BASE = "https://sis-api.emsi.ma"
-CYBER = "/home/ayoub/projects/cyper"
+CYBER = "/home/Student/projects/cyper"
 
 # Load tokens
 with open(f"{CYBER}/.token.sh") as f:
@@ -215,7 +215,7 @@ def main():
     
     # Try with different where clauses
     where_clauses = [
-        {"enrollmentID": 27881},  # Ayoub's enrollment
+        {"enrollmentID": 27881},  # Student's enrollment
         {"studentGroup": 765},
         {"studentGroupID": 765},
         {"studentGroupId": 765},

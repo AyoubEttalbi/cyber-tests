@@ -3,7 +3,7 @@
 ## Overview
 
 Penetration test against **sis-api.emsi.ma** (EMSI school's academic management system).
-Performed by a **student** (Ayoub ETTALBI, studentID: 21393) using only a student-level access token.
+Performed by a **student** (Student Researcher, studentID: 21393) using only a student-level access token.
 
 ## Context
 
@@ -126,4 +126,4 @@ curl -s -X POST "https://sis-api.emsi.ma/v1/ss/auth/refresh" \
 
 ---
 
-*Assessment by Ayoub ETTALBI (studentID: 21393)*
+*Assessment by Student Researcher (studentID: 21393)*

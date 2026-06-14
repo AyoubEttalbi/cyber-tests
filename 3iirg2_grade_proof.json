@@ -1,7 +1,7 @@
 {
   "summary": "3IIRK G2 (group 765) — GRADE VERIFICATION PROOF",
   "date": "2026-06-12",
-  "student": "Ayoub ETTALBI (21393, enrollmentID 27881)",
+  "student": "Student Researcher (21393, enrollmentID 27881)",
   "group": "3IIRK G2",
   "groupID": 765,
   "programVersion": "MK-IIR-24-25",
@@ -381,7 +381,7 @@
   "grade_verification": [],
   "total_entered_across_all_evals": 0,
   "verification_date": "2026-06-12T22:30:00Z",
-  "ayoub_grades": {
+  "Student_grades": {
     "total_records": 55,
     "non_null_grades": 0,
     "all_null": true

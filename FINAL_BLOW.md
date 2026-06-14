@@ -1,7 +1,7 @@
 # 🔴 FINAL BLOW — Complete Penetration Test Report
 ## Target: student.emsi.ma & sis-api.emsi.ma
 ## Date: 12-13 June 2026
-## Attacker: Ayoub ETTALBI (studentID: 21393)
+## Attacker: Student Researcher (studentID: 21393)
 
 ## THE SCENARIO: A STUDENT vs THE "SENIOR"
 
@@ -29,7 +29,7 @@ The senior said none of this is possible. **This report proves otherwise.**
 
 **BREAKTHROUGH FINDING (June 13): Grade data DOES exist in the system.**
 
-**I, Ayoub ETTALBI (studentID: 21393), read the grades of 344+ students across 11+ groups** by exploiting the broken access control in `/v1/neo-instructor/grades/page`. I extracted **4,749+ grade records with 2,107+ actual (non-null) grades from 344+ students** across multiple groups (575, 600, 625, 650, 675, 700, 725, 850, 900, 950). The system correctly stores and returns grades — but **NOT for 3IIRK G2 (group 765)**.
+**I, Student Researcher (studentID: 21393), read the grades of 344+ students across 11+ groups** by exploiting the broken access control in `/v1/neo-instructor/grades/page`. I extracted **4,749+ grade records with 2,107+ actual (non-null) grades from 344+ students** across multiple groups (575, 600, 625, 650, 675, 700, 725, 850, 900, 950). The system correctly stores and returns grades — but **NOT for 3IIRK G2 (group 765)**.
 
 The senior claimed: *"The grades ARE submitted, you just can't find them."*
 
@@ -45,7 +45,7 @@ The senior claimed: *"The grades ARE submitted, you just can't find them."*
 ```
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIxMzkzLCJlbWFpbCI6ImF5b3ViLmV0dGFsYmlAZW1zaS1lZHUubWEiLCJ1c2VyVHlwZSI6IlNUVURFTlQiLCJpYXQiOjE3ODEyOTIxMzksImV4cCI6MTc4MTI5MzAzOX0...
 ```
-**Decoded:** `{"sub":21393, "email":"ayoub.ettalbi@emsi-edu.ma", "userType":"STUDENT"}`
+**Decoded:** `{"sub":21393, "email":"student-researcher@emsi-edu.ma", "userType":"STUDENT"}`
 
 ### Refresh Token (STUDENT scope)
 ```
@@ -286,15 +286,15 @@ curl "https://sis-api.emsi.ma/v1/student/auth/me" \
 | Field | Value |
 |---|---|
 | studentID | 21393 |
-| fullName | Ayoub ETTALBI |
+| fullName | Student Researcher |
 | studentNumber | M-2026-000171 |
 | ssn | EE991087 |
 | dateOfBirth | 2005-01-01 |
 | placeOfBirth | MARRAKECH |
 | postalAddress | DR TOKANNA NO 211 TASSOULTANTE MARRAKECH |
-| mail | ayoubettalbipost@gmail.com |
+| mail | student-researcher@emsi-edu.ma |
 | phoneNumber | +212628415932 |
-| guardian1Name | Ettalbi Khalid |
+| guardian1Name | Guardian Name |
 | guardian1Profession | MENUISIER |
 | studentNationalCode | G138436385 |
 | campus | MARRAKECH CENTRE |
@@ -1265,7 +1265,7 @@ Enrollment 37126 — 8.33 — [0, 10, 15]
 
 ## SECTION 7: EVIDENCE FILES SAVED
 
-All files in `/home/ayoub/projects/cyper/`:
+All files in `/home/Student/projects/cyper/`:
 
 | File | Size | Content |
 |---|---|---|
@@ -1350,7 +1350,7 @@ Use this script to reproduce the findings from scratch:
 
 TOKEN="<your_access_token>"
 BASE="https://sis-api.emsi.ma"
-CYBER="/home/ayoub/projects/cyper"
+CYBER="/home/Student/projects/cyper"
 mkdir -p "$CYBER"
 
 # 1. DOWNLOAD SWAGGER SPEC (no token needed)
@@ -1505,6 +1505,6 @@ print(f'Instructors from attendance: {sorted(instructors)}')
 
 ---
 
-*Assessment performed by Ayoub ETTALBI (studentID: 21393)*
+*Assessment performed by Student Researcher (studentID: 21393)*
 *Date: 12-13 June 2026*
-*Evidence directory: `/home/ayoub/projects/cyper/`*
+*Evidence directory: `/home/Student/projects/cyper/`*
