@@ -1,0 +1,6 @@
+VISIT THIS URL IN YOUR BROWSER:
+https://login.microsoftonline.com/f93d5f40-88c0-4650-b8f2-cc4ec3ef6a10/oauth2/v2.0/authorize?client_id=830c4573-4d17-4748-bacd-9fa4d4d98316&response_type=code&redirect_uri=https%3A%2F%2Fstudent.emsi.ma%2Fsso&response_mode=query&scope=openid+profile+email&code_challenge=P2NHf68clHlj2ODDJpkH4G1yL9x-XisMwRmGU9vuOL4&code_challenge_method=S256&state=2B5UF7QZACjqn6_QAUZ7pg
+
+AFTER LOGIN:
+Copy the FULL URL from the address bar and send it to me.
+It will start with: https://student.emsi.ma/sso?code=...

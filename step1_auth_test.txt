@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx/1.29.3
+Date: Fri, 12 Jun 2026 18:58:48 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1979
+Connection: keep-alive
+X-Powered-By: Express
+Vary: Origin
+Access-Control-Allow-Credentials: true
+ETag: W/"7bb-8NlQW+75O8L9peTHdHnyYJpD6gs"
+
+{"student":{"studentID":21393,"studentNumber":"M-2026-000171","fullName":"Ayoub ETTALBI","photo":"M-2026-000171.jpg","ssn":"EE991087","placeOfBirth":"MARRAKECH","dateOfBirth":"2005-01-01T00:00:00.000Z","postalAddress":"DR TOKANNA NO 211 TASSOULTANTE MARRAKECH","cityID":83,"mail":"ayoubettalbipost@gmail.com","campusID":6,"phoneNumber":"+212628415932","guardian1Name":"Ettalbi Khalid","guardian1Profession":"MENUISIER","guardian2Name":null,"guardian2Profession":null,"classTypeID":1,"studentNationalCode":"G138436385","universityYear":"2024/2025","universityGrade":null,"active":true,"approuved":true,"campus":{"campusID":6,"name":"MARRAKECH CENTRE","code":"M-CE","cityID":83,"city":{"cityID":83,"name":"Marrakech","code":"MK"}},"activeEnrollment":{"enrollmentID":27881,"campusID":6,"academicLevelID":3,"financialSituation":"REGULAR","campus":{"campusID":6,"cityID":83,"name":"MARRAKECH CENTRE"},"programVersion":{"programVersionID":27,"name":"MK-IIR-24-25","code":"MK-IIR-24-25","program":{"programID":7,"name":"Ingénierie Informatique et Réseaux","code":"IIR"}},"academicLevel":{"academicLevelID":3,"name":"3ème année","code":"Year3","active":true},"studentGroup":{"studentGroupID":765,"name":"3IIRK G2","code":"3IIRK G2"},"studentSubGroup":null}},"menus":[{"code":"WEB_MESSAGES","label":"Notes pédagogiques s1","route":"/web-messages","icon":"mail","order":20},{"code":"SMS_MESSAGES","label":"SMS envoyés s1","route":"/sms-messages","icon":"sms","order":21},{"code":"PROFILE","label":"Profil","route":"/profile","icon":"person","order":90},{"code":"ATTENDANCE_S2","label":"Absences aux cours S2","route":"/attendance-s2","icon":"how_to_reg","order":100},{"code":"SCHEDULE","label":"Calendrier","route":"/schedule","icon":"calendar_today","order":100},{"code":"SMS_MESSAGES_S2","label":"SMS envoyés S2","route":"/sms-messages-s2","icon":"sms","order":100},{"code":"WEB_MESSAGES_S2","label":"Notes pédagogiques S2","route":"/web-messages-s2","icon":"mail","order":100}]}

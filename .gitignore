@@ -1,12 +1,3 @@
-# Secrets & tokens
-campusphere_token.txt
-campusphere_refresh.txt
-refresh_result.txt
-step1_auth_test.txt
-microsoft_login_url.txt
-try_login.sh
-brute_force_login.sh
-
 # Temp files
 /tmp/
 *.pyc
